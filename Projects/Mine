@@ -1,0 +1,5 @@
+name2=input("yes")
+name3=input(if)("no")
+input()
+print(f"{}(f"{name2} thats great what do you call a train full of bubbel gum")
+print(f"{name3} man you suck {name1}")
